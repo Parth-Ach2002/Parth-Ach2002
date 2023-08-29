@@ -12,7 +12,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Parth-Ach2002&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Parth-Ach2002)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Parth-Ach2002)  
 
 <!---
 Parth-Ach2002/Parth-Ach2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
