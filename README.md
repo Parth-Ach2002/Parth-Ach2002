@@ -1,3 +1,5 @@
+![image](https://github.com/Parth-Ach2002/Parth-Ach2002/assets/141126437/5e9e2c7a-6f0a-4334-93c4-1b695ff8265e)
+
 - 👋 Hi, I’m @Parth-Ach2002
 - 👀 I’m interested in Python programming, Machine Learning, Neural Networks and visualising data.
 - 🌱 I’m currently learning Data Science And Analytics
