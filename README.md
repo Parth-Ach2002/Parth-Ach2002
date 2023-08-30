@@ -12,7 +12,7 @@ Skills: R Programming / Git / Python / SPSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Parth-Ach2002&show_icons=true)  
 
-[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Parth-Ach2002&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Parth-Ach2002/github-readme-activity-graph)
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Parth-Ach2002&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)]
 <!---
 Parth-Ach2002/Parth-Ach2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
