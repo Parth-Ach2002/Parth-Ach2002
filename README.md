@@ -8,7 +8,7 @@
 
 Skills: R Programming / Git / Python / SPSS
 
-[![Parth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Parth-Ach2002&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Parth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Parth-Ach2002&theme=high-contrast)](https://github.com/Parth-Ach2002/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-Ach2002)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Parth-Ach2002&show_icons=true)  
 
