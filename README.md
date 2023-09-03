@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Parth Achrekar
 - 👀 I’m interested in Python programming, Machine Learning, Neural Networks and visualising data.
 - 🌱 I’m currently learning Data Science And Analytics
-- 📫 p.achrekar@gmail.com ![image](https://github.com/Parth-Ach2002/Parth-Ach2002/assets/141126437/f62e4097-bd2e-422c-9b28-5d5bd617556e)
+- 📫 p.achrekar@gmail.com
 - 🔭 I’m currently working on https://github.com/Parth-Ach2002/Image-Classification 
 
 Skills: R Programming / Git / Python / SPSS
